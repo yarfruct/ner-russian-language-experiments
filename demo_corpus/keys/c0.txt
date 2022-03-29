@@ -1,0 +1,14 @@
+Джеймс Дэниел Мэй,PER
+James Daniel May,PER
+Бристоль,LOC
+Англия,LOC
+английский,MISC
+Top Gear,MISC
+The Grand Tour,MISC
+Джереми Кларксоном,PER
+Ричардом Хаммондом,PER
+Джеймс Мэй,PER
+Бристоле,LOC
+Джейн,PER
+Сара,PER
+
